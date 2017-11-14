@@ -6,6 +6,6 @@ class Post
 
   end
   def author_name
-    self.artist.name
+    self.author.name
   end
 end
